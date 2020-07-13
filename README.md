@@ -5,7 +5,6 @@
 
 Implementation Details
 
-  -
   - The initial state of the game contains some fixed blocks with numbers already present
   - The user can tap on any blank block and input a number from 1-9
   - If the user inputs anything other than 1-9, an error alert will be displayed in the window
