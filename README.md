@@ -3,7 +3,8 @@
 - It is developed using simple HTML table and JavaScript functionalities
 
 
-Implementation Details
+Implementation Details:
+
 
   - The initial state of the game contains some fixed blocks with numbers already present
   - The user can tap on any blank block and input a number from 1-9
